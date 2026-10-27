@@ -7,6 +7,8 @@ Featuring a premium dark theme (`#0B0F19`), glowing purple-to-cyan gradients, gl
 ---
 
 ## 🚀 Live Demo & Profiles
+## 🌐 Live Portfolio
+-**Visit my portfolio**:https://my-portfolio-website-delta-virid-78.vercel.app/
 - **LeetCode Profile**: [https://leetcode.com/u/kotti_sindhu_rani/](https://leetcode.com/u/kotti_sindhu_rani/)
 - **LinkedIn Profile**: [https://www.linkedin.com/in/k-sindhu-rani/](https://www.linkedin.com/in/k-sindhu-rani/)
 - **GitHub Profile**: [https://github.com/K-SindhuRani](https://github.com/K-SindhuRani)
